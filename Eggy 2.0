@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eggy - Fresh Eggs Supplier</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+        header { background: #ffcc00; padding: 20px; font-size: 24px; }
+        section { padding: 20px; }
+        footer { background: #333; color: white; padding: 10px; position: absolute; width: 100%; bottom: 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Eggy</h1>
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>Eggy provides fresh and high-quality eggs directly from our farms.</p>
+    </section>
+    <section>
+        <h2>Our Products</h2>
+        <p>We offer organic eggs, free-range eggs, and premium quality farm eggs.</p>
+    </section>
+    <section>
+        <h2>Contact Us</h2>
+        <p>Email: info@eggy.com</p>
+        <p>Phone: +1234567890</p>
+        <p>Phone: 9398038165</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Eggy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
